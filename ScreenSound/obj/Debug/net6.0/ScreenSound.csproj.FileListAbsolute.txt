@@ -13,3 +13,16 @@ C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\
 C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
 C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
 C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+C:\temp\aulas alura Csharp\ScreenSound03-Recomeco\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CopyComplete

@@ -5,12 +5,8 @@ internal class Banda : IAvaliavel
     private List<Album> albuns = new List<Album>();
     private List<Avaliacao> notas = new List<Avaliacao>();
 
-    public Banda(string nome)
-    {
-        Nome = nome;
-    }
-
     public string Nome { get; }
+
     public double Media
     {
         get
@@ -19,7 +15,14 @@ internal class Banda : IAvaliavel
             else return notas.Average(a => a.Nota);
         }
     }
+    public string? Resumo { get; set; }
     public List<Album> Albuns => albuns;
+
+    public Banda(string nome)
+    {
+        Nome = nome;
+    }
+
 
     public void AdicionarAlbum(Album album) 
     { 
